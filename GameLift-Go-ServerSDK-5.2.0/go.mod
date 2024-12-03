@@ -1,5 +1,4 @@
-module github.com/mikanbox/gamelift_server_example_go/GameLift-Go-ServerSDK
-
+module github.com/mikanbox/gamelift_server_example_go/GameLift-Go-ServerSDK-5.2.0
 go 1.21
 
 require (
