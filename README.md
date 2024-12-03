@@ -31,7 +31,7 @@ ANYWHERE フリートを使いローカルで起動する場合は各種引数�
 package main
 
 import (
-    "github.com/yourusername/gamelift_server_example"
+    "github.com/mikanbox/gamelift-server-example-go"
 )
 
 
