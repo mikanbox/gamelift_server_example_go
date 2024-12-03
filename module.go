@@ -1,4 +1,4 @@
-package gamelift_server_example
+package gamelift_server_example_go
 
 import (
 	"context"
