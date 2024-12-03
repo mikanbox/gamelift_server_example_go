@@ -18,7 +18,7 @@
 このパッケージを使用するには、まず Go 言語の環境をセットアップしてください。その後、以下のコマンドでパッケージをインストールします。
 
 ```sh
-go get github.com/yourusername/gamelift_server_example
+go get github.com/mikanbox/gamelift_server_example_go
 ```
 
 ### コード例
