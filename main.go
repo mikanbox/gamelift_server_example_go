@@ -1,4 +1,4 @@
-package gamelift_server_example_go
+package main
 
 import (
 	"flag"
