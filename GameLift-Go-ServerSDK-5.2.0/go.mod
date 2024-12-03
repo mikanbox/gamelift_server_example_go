@@ -1,5 +1,6 @@
-module github.com/mikanbox/gamelift_server_example_go/GameLift-Go-ServerSDK-5.2.0
-go 1.21
+module aws/amazon-gamelift-go-sdk
+
+go 1.18
 
 require (
 	github.com/golang/mock v1.6.0

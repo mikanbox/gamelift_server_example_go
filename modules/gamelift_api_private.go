@@ -1,11 +1,11 @@
-package gamelift_server_example_go
+package modules
 
 import (
+	"aws/amazon-gamelift-go-sdk/model"
+	"aws/amazon-gamelift-go-sdk/model/request"
+	"aws/amazon-gamelift-go-sdk/server"
 	"encoding/json"
 	"fmt"
-	"github.com/mikanbox/gamelift_server_example_go/GameLift-Go-ServerSDK-5.2.0/model"
-	"github.com/mikanbox/gamelift_server_example_go/GameLift-Go-ServerSDK-5.2.0/model/request"
-	"github.com/mikanbox/gamelift_server_example_go/GameLift-Go-ServerSDK-5.2.0/server"
 	"log"
 	"os"
 	"runtime"
