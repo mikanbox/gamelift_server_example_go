@@ -8,7 +8,6 @@ require (
 	github.com/gorilla/websocket v1.5.1
 	github.com/sethvargo/go-retry v0.2.4
 	go.uber.org/goleak v1.2.0
-	github.com/sethvargo/go-retry v0.2.4
 )
 
-require golang.org/x/net v0.20.0 // indirect
+require golang.org/x/net v0.33.0 // indirect
