@@ -1,6 +1,6 @@
 module aws/amazon-gamelift-go-sdk
 
-go 1.18
+go 1.25.0
 
 require (
 	github.com/golang/mock v1.6.0
@@ -10,4 +10,4 @@ require (
 	go.uber.org/goleak v1.2.0
 )
 
-require golang.org/x/net v0.33.0 // indirect
+require golang.org/x/net v0.55.0 // indirect
